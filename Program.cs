@@ -4,7 +4,7 @@
             // Step 1: Create a Payment Manager instance to manage all payment transactions.
             PaymentManager manager = new PaymentManager();
 
-            // --- Valid Payments ---
+            // ------------------------- Valid Payments -------------------------
             // 1. A valid credit card payment of $20 CAD processed through Stripe.
             manager.AddPayment(new CreditCardPayment(20, "CAD", "Stripe", "1234-5678-9101-1121", "12/25", "123"));
 
@@ -18,7 +18,7 @@
             manager.AddPayment(new ChequePayment(100, "USD", "CH123", "Bank ABC"));
 
 
-            // --- Invalid Payments (These should be removed during validation) ---
+            // --- Invalid Payments (These will be removed during validation) ---
             // 6. A credit card payment of $4 CAD (Invalid: Below the $5 minimum for CAD).
             manager.AddPayment(new CreditCardPayment(4, "CAD", "Stripe", "5678-1234-9101-1121", "11/26", "456"));
 
@@ -51,6 +51,7 @@
             // - After validation, authorization, and recording, payments are finalized.
             manager.ProcessPayments();
 
+            /*-------------------------------------------------------------------------------------------------------------------*/
 
             // Logging all payments (For testing)
             manager.DisplayPayments();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\mitt\\back-end\\OOP-Fundamentals\\practice\\Payment Plus\\Payment Plus.csproj": {}
+    "C:\\code\\mitt\\back-end\\OOP-Fundamentals\\assignments\\Payment Plus\\Payment Plus.csproj": {}
   },
   "projects": {
-    "C:\\code\\mitt\\back-end\\OOP-Fundamentals\\practice\\Payment Plus\\Payment Plus.csproj": {
+    "C:\\code\\mitt\\back-end\\OOP-Fundamentals\\assignments\\Payment Plus\\Payment Plus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\mitt\\back-end\\OOP-Fundamentals\\practice\\Payment Plus\\Payment Plus.csproj",
+        "projectUniqueName": "C:\\code\\mitt\\back-end\\OOP-Fundamentals\\assignments\\Payment Plus\\Payment Plus.csproj",
         "projectName": "Payment Plus",
-        "projectPath": "C:\\code\\mitt\\back-end\\OOP-Fundamentals\\practice\\Payment Plus\\Payment Plus.csproj",
+        "projectPath": "C:\\code\\mitt\\back-end\\OOP-Fundamentals\\assignments\\Payment Plus\\Payment Plus.csproj",
         "packagesPath": "C:\\Users\\sreut\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\mitt\\back-end\\OOP-Fundamentals\\practice\\Payment Plus\\obj\\",
+        "outputPath": "C:\\code\\mitt\\back-end\\OOP-Fundamentals\\assignments\\Payment Plus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

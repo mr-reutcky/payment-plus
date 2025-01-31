@@ -35,6 +35,7 @@
             }
         }
 
+
         // Only used for testing
         public void DisplayPayments() {
             foreach (Payment payment in payments) {
