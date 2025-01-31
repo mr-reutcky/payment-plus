@@ -1,0 +1,15 @@
+C:\code\mitt\back-end\OOP-Fundamentals\practice\Payment Plus\bin\Debug\net8.0\Payment Plus.exe
+C:\code\mitt\back-end\OOP-Fundamentals\practice\Payment Plus\bin\Debug\net8.0\Payment Plus.deps.json
+C:\code\mitt\back-end\OOP-Fundamentals\practice\Payment Plus\bin\Debug\net8.0\Payment Plus.runtimeconfig.json
+C:\code\mitt\back-end\OOP-Fundamentals\practice\Payment Plus\bin\Debug\net8.0\Payment Plus.dll
+C:\code\mitt\back-end\OOP-Fundamentals\practice\Payment Plus\bin\Debug\net8.0\Payment Plus.pdb
+C:\code\mitt\back-end\OOP-Fundamentals\practice\Payment Plus\obj\Debug\net8.0\Payment Plus.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\mitt\back-end\OOP-Fundamentals\practice\Payment Plus\obj\Debug\net8.0\Payment Plus.AssemblyInfoInputs.cache
+C:\code\mitt\back-end\OOP-Fundamentals\practice\Payment Plus\obj\Debug\net8.0\Payment Plus.AssemblyInfo.cs
+C:\code\mitt\back-end\OOP-Fundamentals\practice\Payment Plus\obj\Debug\net8.0\Payment Plus.csproj.CoreCompileInputs.cache
+C:\code\mitt\back-end\OOP-Fundamentals\practice\Payment Plus\obj\Debug\net8.0\Payment Plus.sourcelink.json
+C:\code\mitt\back-end\OOP-Fundamentals\practice\Payment Plus\obj\Debug\net8.0\Payment Plus.dll
+C:\code\mitt\back-end\OOP-Fundamentals\practice\Payment Plus\obj\Debug\net8.0\refint\Payment Plus.dll
+C:\code\mitt\back-end\OOP-Fundamentals\practice\Payment Plus\obj\Debug\net8.0\Payment Plus.pdb
+C:\code\mitt\back-end\OOP-Fundamentals\practice\Payment Plus\obj\Debug\net8.0\Payment Plus.genruntimeconfig.cache
+C:\code\mitt\back-end\OOP-Fundamentals\practice\Payment Plus\obj\Debug\net8.0\ref\Payment Plus.dll
